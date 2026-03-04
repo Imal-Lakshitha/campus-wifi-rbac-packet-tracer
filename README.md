@@ -16,7 +16,7 @@ The goal of this project is to simulate a **real-world campus network** with pro
 - Allow controlled inter-VLAN communication
 - Provide Internet access using NAT
 - Apply basic network security best practices
-
+.
 ---
 
 ## 🧩 Network Design
